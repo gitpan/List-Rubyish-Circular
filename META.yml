@@ -26,4 +26,4 @@ resources:
   bugtracker: http://github.com/kentaro/list-rubyish-circular/issues
   license: http://opensource.org/licenses/mit-license.php
   repository: http://github.com/kentaro/list-rubyish-circular
-version: 0.01
+version: 0.02
