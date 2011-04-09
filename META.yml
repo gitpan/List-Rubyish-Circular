@@ -20,10 +20,10 @@ no_index:
     - t
     - xt
 requires:
-  List::Rubyish: 0
+  parent: List::Rubyish
   perl: 5.8.1
 resources:
   bugtracker: http://github.com/kentaro/list-rubyish-circular/issues
   license: http://opensource.org/licenses/mit-license.php
   repository: http://github.com/kentaro/list-rubyish-circular
-version: 0.02
+version: 0.03
